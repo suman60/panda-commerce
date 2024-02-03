@@ -39,3 +39,16 @@
     border: none;
     box-shadow: 5px 5px 10px lightgray;
 }
+#Subscribe{
+    height: 300px;
+}
+#Subscribe p{
+    color: gray;
+}
+.buy-now-button{
+    margin-left: 150px;
+    margin-top: 10px;
+}
+footer{
+    text-align: center;
+}
